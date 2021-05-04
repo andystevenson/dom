@@ -1,0 +1,16 @@
+{
+  "name": "@andystevenson/dom",
+  "version": "1.0.1",
+  "description": "JS library for DOM manipulation",
+  "main": "index.mjs",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "keywords": [
+    "javascript",
+    "HTML",
+    "DOM"
+  ],
+  "author": "andystevenson@mac.com",
+  "license": "ISC"
+}
