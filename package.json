@@ -1,6 +1,6 @@
 {
   "name": "@andystevenson/dom",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "JS library for DOM manipulation",
   "main": "index.mjs",
   "scripts": {
