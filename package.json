@@ -3,12 +3,21 @@
   "version": "1.0.4",
   "description": "JS library for DOM manipulation",
   "main": "index.mjs",
-  "scripts": {},
+  "scripts": {
+    "test": "echo 'No tests specified'",
+    "deploy": "np patch --preview"
+  },
   "keywords": [
     "javascript",
     "HTML",
     "DOM"
   ],
   "author": "andystevenson@mac.com",
-  "license": "ISC"
+  "license": "ISC",
+  "np": {
+    "yarn": false
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
